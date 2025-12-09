@@ -4,8 +4,8 @@ import { motion, AnimatePresence } from 'framer-motion';
 const petEmojis = {
   dragon: { egg: '🥚', hatchling: '🐣', grown: '🐲' },
   cerberus: { egg: '🥚', hatchling: '🐕', grown: '🐺' },
-  kitsune: { egg: '🥚', hatchling: '🦊', grown: '🦊⛩️🌸' },
-  phoenix: { egg: '🥚', hatchling: '🐤', grown: '' }
+  kitsune: { egg: '🥚', hatchling: '😸', grown: '🦊⛩️🌸' },
+  phoenix: { egg: '🥚', hatchling: '🐤', grown: '🐦‍🔥' }
 };
 
 const moodFaces = {
